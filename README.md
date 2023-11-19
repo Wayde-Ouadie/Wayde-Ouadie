@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! My name is Ouadie, a Student of 1337 && 42.</h2>
+<h2 align="center">Hello 👋! My name is Ouadie, a Student of 1337 && 42.</h2>
 
 ###
 
