@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there curios wanderer👋</h1>
+<h1 align="center">Hey there curious wanderer👋</h1>
 
 ###
 
