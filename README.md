@@ -1,13 +1,5 @@
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wayde-Ouadie.Wayde-Ouadie&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there curios wanderer👋</h1>
 
 ###
 
