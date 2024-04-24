@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I'm Ouadie from Morocco <br><br>- 🔭 Student at 1337<br>- 📚 Currently learning flutter<br>- ⚡ In my free time I like to read books about programming language.</p>
+<p align="left">I'm Ouadie from Morocco <br><br>- 🔭 Student at 1337<br>- 📚 Currently learning flutter<br>- ⚡ In my free time I like to read books and play sport.</p>
 
 ###
 
