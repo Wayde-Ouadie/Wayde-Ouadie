@@ -58,16 +58,7 @@
 
 ###
 
-<p align="left">Libft : 125/100</p>
-<p align="left">ft_printf : 100/100</p>
-<p align="left">get_next_line : 125/100</p>
-<p align="left">Born2beroot : 125/100</p>
-<p align="left">push_swap : 125/100</p>
-<p align="left">fract-ol : 120/100</p>
-<p align="left">minitalk : 125/100</p>
-<p align="left">minishell : 110/100</p>
-<p align="left">Philosophers : 100/100</p>
-<p align="left">cub3d : 125/100</p>
+<p align="left">Libft : 125/100<br><br>ft_printf : 100/100<br><br>get_next_line : 125/100<br><br>Born2beroot : 125/100<br><br>push_swap : 125/100<br><br>fract-ol : 120/100<br><br>minitalk : 125/100<br><br>minishell : 110/100<br><br>Philosophers : 100/100<br><br>cub3d : 125/100</p>
 
 ###
 
