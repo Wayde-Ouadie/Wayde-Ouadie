@@ -11,7 +11,7 @@
 
 ###
 
-<a style="margin:auto; text-align:center; display:block;" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/oel-feng" alt="oel-feng's 42 stats" /></a>
+<a style="margin:auto; text-align:center; display:block;" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/Starryblue/oel-feng" alt="oel-feng's 42 stats" /></a>
 
 ###
 
