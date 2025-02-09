@@ -54,11 +54,11 @@
 
 ###
 
-<h3 align="left">42 Network projects :</h3>
+<h3 align="left">42 Network projects (125 means full bonus part) :</h3>
 
 ###
 
-<p align="left">Libft : 125/100<br>ft_printf : 100/100<br><br>get_next_line : 125/100<br><br>Born2beroot : 125/100<br><br>push_swap : 125/100<br><br>fract-ol : 120/100<br><br>minitalk : 125/100<br><br>minishell : 110/100<br><br>Philosophers : 100/100<br><br>cub3d : 125/100</p>
+<p align="left">Libft : 125/100<br>ft_printf : 100/100<br>get_next_line : 125/100<br>Born2beroot : 125/100<br>push_swap : 125/100<br>fract-ol : 120/100<br>minitalk : 125/100<br>minishell : 110/100<br>Philosophers : 100/100<br>cub3d : 125/100</p>
 
 ###
 
