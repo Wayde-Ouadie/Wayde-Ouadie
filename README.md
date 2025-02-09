@@ -7,11 +7,15 @@
 
 ###
 
-<p align="left">My name is Ouadie, born in Casablanca Morocco.<br><br>- 🔭 Student at 1337 Coding School (42 Network).<br>- 📚 Experimenting with flutter and React Native.<br>- ⚡ In my free time I like to read books && novels, watch F1 and play football (soccer for the american fellas).</p>
+<p align="left">My name is Ouadie, born in Casablanca Morocco.<br><br>- 🔭 Student at [1337 Coding School](https://1337.ma/en/) aka 42 Network (6th promo).<br>- 📚 Experimenting with flutter and React Native.<br>- ⚡ In my free time I like to read books && novels, watch F1 and play football (soccer for the american fellas).</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/oel-feng" alt="oel-feng's 42 stats" /></a>
+
+###
+
+<h3 align="left">Language and tools</h3>
 
 ###
 
@@ -41,7 +45,33 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">My contact informations :
+
+###
+
+<p align="left">-📧 : ouadie.xyz1@gmail.com</p>
+<p align="left" href="https://www.linkedin.com/in/oel-feng/">-💼 Linkedin</p>
+
+###
+
+<h3 align="left">42 Network projects :</h3>
+
+###
+
+<p align="left">Libft : 125/100</p>
+<p align="left">ft_printf : 100/100</p>
+<p align="left">get_next_line : 125/100</p>
+<p align="left">Born2beroot : 125/100</p>
+<p align="left">push_swap : 125/100</p>
+<p align="left">fract-ol : 120/100</p>
+<p align="left">minitalk : 125/100</p>
+<p align="left">minishell : 110/100</p>
+<p align="left">Philosophers : 100/100</p>
+<p align="left">cub3d : 125/100</p>
+
+###
+
+<h3 align="left">My Stats :</h3>
 
 ###
 
