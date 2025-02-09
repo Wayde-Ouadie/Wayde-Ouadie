@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">My name is Ouadie, born in Casablanca Morocco.<br><br>- 🔭 Student at [1337 Coding School](https://1337.ma/en/) aka 42 Network (6th promo).<br>- 📚 Experimenting with flutter and React Native.<br>- ⚡ In my free time I like to read books && novels, watch F1 and play football (soccer for the american fellas).</p>
+<p align="left">My name is Ouadie, born in Casablanca Morocco.<br><br>- 🔭 Student at 1337 Coding School part of the 42 Network (6th promo).<br>- 📚 Experimenting with flutter and React Native.<br>- ⚡ In my free time I like to read books && novels, watch F1 and play football (soccer for the american fellas).</p>
 
 ###
 
