@@ -34,19 +34,13 @@ class Developer {
 
 <p align="center">
   <a href="https://github.com/Wayde-Ouadie">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,react,electron" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,react,electron,rails,gulp,elixir" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Wayde-Ouadie">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,docker,git,linux" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Wayde-Ouadie">
-    <img src="https://skillicons.dev/icons?i=elixir,rails,gulp" />
   </a>
 </p>
 
