@@ -10,8 +10,8 @@ class Developer {
   description: string = "Passionate software engineer with expertise in web development" +
                         " and low-level programming, always experimenting with" +
                         " different technologies, striving to always learn.";
-  hobbies: string = "Reading novels and man(ga/hua/hwa)s" +
-                    " Watching F1 (McLaren Fan)" +
+  hobbies: string = "Reading novels and man(ga/hua/hwa)s," +
+                    " watching F1 (McLaren Fan)" +
                     " and Football (Wydad Casablanca + Real Madrid).";
 
   constructor() {
