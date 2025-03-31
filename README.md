@@ -21,7 +21,7 @@ class Developer {
   destructor() {
     console.log("No coffee found, initiating sleep sequence...);
   }
-}
+};
 ```
 
 <h3 align="left">Languages and Tools:</h3>
