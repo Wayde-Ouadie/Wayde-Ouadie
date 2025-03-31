@@ -55,7 +55,7 @@ class Developer {
 
 <p align="center">
   <b>Faculté des sciences Aïn Chock</b><br>
-  Associate's degree, Computer Science and Mathematics<br>
+  Bachelor's degree, Computer Science and Mathematics<br>
   <i>2020 - 2023</i>
 </p>
 
