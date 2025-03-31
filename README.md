@@ -49,7 +49,8 @@ class Developer {
 <h3 align="left">Education:</h3>
 
 <p align="center">
-  <b>1337 Coding School</b> - Computer Science, Software Engineering<br>
+  <b>1337 Coding School</b><br>
+  Computer Science, Software Engineering<br>
   <i>2023 - Present</i>
 </p>
 
