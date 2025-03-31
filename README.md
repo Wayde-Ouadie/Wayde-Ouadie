@@ -19,7 +19,7 @@ class Developer {
   }
 
   destructor() {
-    console.log("No coffee found, initiating sleep sequence...);
+    console.log("No coffee found, initiating sleep sequence...");
   }
 };
 ```
