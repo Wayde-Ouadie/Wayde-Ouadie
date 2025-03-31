@@ -1,80 +1,92 @@
-
-<h1 align="center">Hey there curious wanderer👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">My name is Ouadie, born in Casablanca Morocco.<br><br>- 🔭 Student at 1337 Coding School part of the 42 Network (6th promo).<br>- 📚 Experimenting with flutter and React Native.<br>- ⚡ In my free time I like to read books && novels, watch F1 and play football (soccer for the american fellas).</p>
-
-###
-
 <div align="center">
-  <a style="margin:auto; text-align:center; display:block;" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/Starryblue/oel-feng" alt="oel-feng's 42 stats" /></a>
-  
-###
-
-<h3 align="left">Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9D50BB&height=200&section=header&text=Ouadie%20El%20Fengour&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20@%201337&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
-###
+```ts
+class Developer {
+  fullName: string = "Ouadie El Fengour";
+  title: string = "Software Engineer";
+  affiliation: string = "Student at 1337 Coding School, part of the 42 Network";
+  description: string = "Passionate software engineer with expertise in web development" +
+                        " and low-level programming, always experimenting with" +
+                        " different technologies, striving to always learn.";
+  hobbies: string = "Reading novels and man(ga/hua/hwa)s" +
+                    " Watching F1 (McLaren Fan)" +
+                    " and Football (Wydad Casablanca + Real Madrid).";
 
-<h3 align="left">My contact informations :
+  constructor() {
+    console.log("Building the next great solution...");
+  }
 
-###
+  destructor() {
+    console.log("No coffee found, initiate sleep sequence...);
+  }
+}
+```
 
-<p align="left">-📧 : ouadie.xyz1@gmail.com</p>
-<p align="left" href="https://www.linkedin.com/in/oel-feng/">-💼 Linkedin</p>
+<h3 align="left">Languages and Tools:</h3>
 
-###
+<p align="center">
+  <a href="https://github.com/Wayde-Ouadie">
+    <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,python,django,nodejs" />
+  </a>
+</p>
 
-<h3 align="left">42 Network projects (125 means full bonus part) :</h3>
+<p align="center">
+  <a href="https://github.com/Wayde-Ouadie">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,react,electron" />
+  </a>
+</p>
 
-###
+<p align="center">
+  <a href="https://github.com/Wayde-Ouadie">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,docker,git,linux" />
+  </a>
+</p>
 
-<h3 align="left">My Stats :</h3>
+<p align="center">
+  <a href="https://github.com/Wayde-Ouadie">
+    <img src="https://skillicons.dev/icons?i=elixir,rails,gulp" />
+  </a>
+</p>
 
-###
+---
 
-<p align="left">Hello World!!</p>
+<h3 align="left">Education:</h3>
 
-###
+<p align="center">
+  <b>1337 Coding School</b> - Computer Science, Software Engineering<br>
+  <i>2023 - Present</i>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wayde-Ouadie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wayde-Ouadie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <b>Faculté des sciences Aïn Chock</b><br>
+  Associate's degree, Computer Science and Mathematics<br>
+  <i>2020 - 2023</i>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Wayde-Ouadie&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<h3 align="left">Connect with me:</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/oel-feng/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:ouadie.xyz1@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/Wayde-Ouadie">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wayde-Ouadie&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wayde-Ouadie&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
