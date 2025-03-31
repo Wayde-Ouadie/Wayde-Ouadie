@@ -15,11 +15,11 @@ class Developer {
                     " and Football (Wydad Casablanca + Real Madrid).";
 
   constructor() {
-    console.log("Building the next great solution...");
+    console.log("Working on the next best thing...");
   }
 
   destructor() {
-    console.log("No coffee found, initiate sleep sequence...);
+    console.log("No coffee found, initiating sleep sequence...);
   }
 }
 ```
