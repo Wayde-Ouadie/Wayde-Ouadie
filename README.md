@@ -79,9 +79,9 @@ class Developer {
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=Wayde-Ouadie&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=Ouadie&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ouadie&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Wayde-Ouadie&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
