@@ -39,13 +39,13 @@ class Developer {
 
 <p align="center">
   <a href="https://github.com/Wayde-Ouadie">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions,gitlab,vagrant,nginx" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,githubactions,gitlab,jenkins" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Wayde-Ouadie">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,angular,prometheus,grafana,elasticsearch,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nginx,prometheus,grafana,elasticsearch,rabbitmq" />
   </a>
 </p>
 
