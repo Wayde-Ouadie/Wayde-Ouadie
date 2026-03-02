@@ -1,26 +1,31 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9D50BB&height=200&section=header&text=Ouadie%20El%20Fengour&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20@%201337&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9D50BB&height=200&section=header&text=Ouadie%20El%20Fengour&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=DevOps%20Engineer%20@%201337&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 ```ts
+#include <iostream>
+#include <string>
+using namespace std;
+
 class Developer {
-  fullName: string = "Ouadie El Fengour";
-  title: string = "Software Engineer";
-  affiliation: string = "Student at 1337 Coding School, part of the 42 Network";
-  description: string = "Passionate software engineer with expertise in web development" +
-                        " and low-level programming, always experimenting with" +
-                        " different technologies, striving to always learn.";
-  hobbies: string = "Reading novels and man(ga/hua/hwa)s," +
-                    " watching F1 (McLaren Fan)" +
-                    " and Football (Wydad Casablanca + Real Madrid).";
+  private:
+    string fullName = "Ouadie El Fengour";
+    string location = "Casablanca, Morocco";
+    string hobbies = "Chess, Formula 1, Gaming and Football.";
 
-  constructor() {
-    console.log("Working on the next best thing...");
-  }
+  protected:
+    string title = "Junior Software Engineer - DevOps and SRE Enthusiast";
+    string description = "Results-oriented Junior Software Engineer specializing in Infrastructure design.";
+    string affiliation = "Student at 1337 Coding School (42 Network)";
 
-  destructor() {
-    console.log("No coffee found, initiating sleep sequence...");
-  }
+  public:
+    Developer() {
+        cout << "Working on the next best thing..." << endl;
+    }
+    
+    ~Developer() {
+        cout << "No coffee found, initiating sleep sequence..." << endl;
+    }
 };
 ```
 
@@ -28,19 +33,19 @@ class Developer {
 
 <p align="center">
   <a href="https://github.com/Wayde-Ouadie">
-    <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,python,django,nodejs" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,bash,nodejs,fastapi" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Wayde-Ouadie">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,react,electron,rails,gulp,elixir" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions,gitlab,vagrant,nginx" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Wayde-Ouadie">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,docker,git,linux" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,angular,prometheus,grafana,elasticsearch,rabbitmq" />
   </a>
 </p>
 
@@ -49,9 +54,15 @@ class Developer {
 <h3 align="left">Education:</h3>
 
 <p align="center">
-  <b>1337 Coding School</b><br>
+  <b>1337 Coding School - Advance Core</b><br>
+  DevOps & Cloud infrastructure<br>
+  <i>2026 - present</i>
+</p>
+
+<p align="center">
+  <b>1337 Coding School - Common Core</b><br>
   Computer Science, Software Engineering<br>
-  <i>2023 - Present</i>
+  <i>2023 - 2026</i>
 </p>
 
 <p align="center">
@@ -68,20 +79,10 @@ class Developer {
   <a href="https://www.linkedin.com/in/oel-feng/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:ouadie.xyz1@gmail.com">
+  <a href="mailto:ouadie.xyz@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://github.com/Wayde-Ouadie">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=Ouadie&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Wayde-Ouadie&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
